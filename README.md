@@ -8,6 +8,7 @@
 ⚡ Fun fact:
  > When I wrote this code, only God and I understood what I did. Now only God knows.</br>
 
+![Background (3)](https://user-images.githubusercontent.com/79534533/132258587-96929080-a127-430b-a02a-168ddf019901.png)
 
 <!--![c-d-x-PDX_a_82obo-unsplash-min]
 **hafizhuseynov/hafizhuseynov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
