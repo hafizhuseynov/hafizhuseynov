@@ -4,7 +4,7 @@
 - 👨‍🎓 Computer Science Student at ASOIU.</br>
 - 🌱 I'm currently learning Web Development: ```HTML``` ```CSS``` ```JavaScript``` __. . .__ </br>
 - 💻 Goal: To be the best version of __MYSELF__.</br>
-- 📫You can reach me at huseynoff.hafiz@gmail.com</br>
+- 📫 Reach me at huseynoff.hafiz@gmail.com</br>
 - ⚡ Fun fact:
  > When I wrote this code, only God and I understood what I did. Now only God knows.</br>
 
