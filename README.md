@@ -1,14 +1,13 @@
 # Hi there👋 
-😄 My name is Hafiz.</br>
- 📍 Baku, Azerbaijan.</br>
-👨‍🎓 Computer Science Student at ASOIU.</br>
-🌱 I'm currently learning Web Development: ```HTML``` ```CSS``` ```JavaScript``` __. . .__ </br>
-💻 Goal: To be the best version of __MYSELF__.</br>
-📫You can reach me at huseynoff.hafiz@gmail.com</br>
-⚡ Fun fact:
+- 😄 My name is Hafiz.</br>
+- 📍 Baku, Azerbaijan.</br>
+- 👨‍🎓 Computer Science Student at ASOIU.</br>
+- 🌱 I'm currently learning Web Development: ```HTML``` ```CSS``` ```JavaScript``` __. . .__ </br>
+- 💻 Goal: To be the best version of __MYSELF__.</br>
+- 📫You can reach me at huseynoff.hafiz@gmail.com</br>
+- ⚡ Fun fact:
  > When I wrote this code, only God and I understood what I did. Now only God knows.</br>
 
-![Background (3)](https://user-images.githubusercontent.com/79534533/132258587-96929080-a127-430b-a02a-168ddf019901.png)
 
 <!--![c-d-x-PDX_a_82obo-unsplash-min]
 **hafizhuseynov/hafizhuseynov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
