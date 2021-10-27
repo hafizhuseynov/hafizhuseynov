@@ -2,7 +2,7 @@
 - 😄 My name is Hafiz.</br>
 - 📍 Baku, Azerbaijan.</br>
 - 👨‍🎓 Computer Science Student at ASOIU.</br>
-- 🌱 I'm currently learning Web Development: ```HTML``` ```CSS``` ```JavaScript``` ```ReactJs``` __. . .__ </br>
+- 🌱 I'm currently learning Web Development: ```HTML✔``` ```CSS✔``` ```JavaScript🌓``` ```ReactJs👶``` __. . .__ </br>
 - 💻 Goal: To be the best version of __MYSELF__.</br>
 - 📫 Reach me at huseynoff.hafiz@gmail.com</br>
 - ⚡ Fun fact:
