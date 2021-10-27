@@ -1,5 +1,4 @@
 # Hi there👋 
-- 😄 My name is Hafiz.</br>
 - 📍 Baku, Azerbaijan.</br>
 - 👨‍🎓 Computer Science Student at ASOIU.</br>
 - 🌱 I'm currently learning Web Development: ```HTML✔``` ```CSS✔``` ```JavaScript🌓``` ```ReactJs👶``` __. . .__ </br>
