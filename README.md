@@ -5,8 +5,8 @@
 - 🌱 I'm currently learning Web Development: ```HTML✔``` ```CSS✔``` ```JavaScript🌓``` ```ReactJs👶``` __. . .__ </br>
 - 💻 Goal: To be the best version of __MYSELF__.</br>
 - 📫 Reach me at huseynoff.hafiz@gmail.com</br>
-- ⚡ Fun fact:
- > When I wrote this code, only God and I understood what I did. Now only God knows.</br>
+- ⚡ :
+ > Think twice, code once </br>
 
 
 <!--![c-d-x-PDX_a_82obo-unsplash-min]
